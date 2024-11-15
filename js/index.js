@@ -73,7 +73,7 @@ const productos = [
     },
     {
         nombre: "Kia Sportage 2023",
-        imagen: "./frontend/imagenes/kia_sportage.jpg",
+        imagen: "./frontend/imagenes/10.jpg",
         precio: 105000000,
         descripcion: "SUV moderna con tecnología avanzada, buen rendimiento y confort.",
         categoria: "SUV",
@@ -81,7 +81,7 @@ const productos = [
     },
     {
         nombre: "Volkswagen Golf GTI 2022",
-        imagen: "./frontend/imagenes/volkswagen_golf_gti.jpg",
+        imagen: "./frontend/imagenes/11.jpg",
         precio: 120000000,
         descripcion: "Coche deportivo con gran agilidad, potente motor y diseño práctico.",
         categoria: "Autos",
@@ -89,7 +89,7 @@ const productos = [
     },
     {
         nombre: "Nissan Rogue 2023",
-        imagen: "./frontend/imagenes/nissan_rogue.jpg",
+        imagen: "./frontend/imagenes/12.png",
         precio: 105000000,
         descripcion: "SUV familiar con buen espacio, eficiencia y tecnología avanzada.",
         categoria: "SUV",
@@ -97,7 +97,7 @@ const productos = [
     },
     {
         nombre: "Mazda CX-5 2023",
-        imagen: "./frontend/imagenes/mazda_cx5.jpg",
+        imagen: "./frontend/imagenes/13.jpg",
         precio: 115000000,
         descripcion: "SUV con diseño elegante, conducción ágil y un interior de calidad.",
         categoria: "SUV",
@@ -105,7 +105,7 @@ const productos = [
     },
     {
         nombre: "Subaru Outback 2022",
-        imagen: "./frontend/imagenes/subaru_outback.jpg",
+        imagen: "./frontend/imagenes/14.jpg",
         precio: 130000000,
         descripcion: "SUV robusta con tracción en las cuatro ruedas y capacidad para terrenos difíciles.",
         categoria: "SUV",
@@ -113,7 +113,7 @@ const productos = [
     },
     {
         nombre: "Jeep Wrangler 2023",
-        imagen: "./frontend/imagenes/jeep_wrangler.jpg",
+        imagen: "./frontend/imagenes/15.jpg",
         precio: 150000000,
         descripcion: "SUV todoterreno con gran capacidad de off-road y diseño icónico.",
         categoria: "SUV",
